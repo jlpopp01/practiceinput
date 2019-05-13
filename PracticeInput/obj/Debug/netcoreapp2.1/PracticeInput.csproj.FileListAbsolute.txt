@@ -1,0 +1,11 @@
+C:\Users\Edd.laptop-PC\source\repos\PracticeInput\PracticeInput\bin\Debug\netcoreapp2.1\PracticeInput.deps.json
+C:\Users\Edd.laptop-PC\source\repos\PracticeInput\PracticeInput\bin\Debug\netcoreapp2.1\PracticeInput.runtimeconfig.json
+C:\Users\Edd.laptop-PC\source\repos\PracticeInput\PracticeInput\bin\Debug\netcoreapp2.1\PracticeInput.runtimeconfig.dev.json
+C:\Users\Edd.laptop-PC\source\repos\PracticeInput\PracticeInput\bin\Debug\netcoreapp2.1\PracticeInput.dll
+C:\Users\Edd.laptop-PC\source\repos\PracticeInput\PracticeInput\bin\Debug\netcoreapp2.1\PracticeInput.pdb
+C:\Users\Edd.laptop-PC\source\repos\PracticeInput\PracticeInput\obj\Debug\netcoreapp2.1\PracticeInput.csprojAssemblyReference.cache
+C:\Users\Edd.laptop-PC\source\repos\PracticeInput\PracticeInput\obj\Debug\netcoreapp2.1\PracticeInput.csproj.CoreCompileInputs.cache
+C:\Users\Edd.laptop-PC\source\repos\PracticeInput\PracticeInput\obj\Debug\netcoreapp2.1\PracticeInput.AssemblyInfoInputs.cache
+C:\Users\Edd.laptop-PC\source\repos\PracticeInput\PracticeInput\obj\Debug\netcoreapp2.1\PracticeInput.AssemblyInfo.cs
+C:\Users\Edd.laptop-PC\source\repos\PracticeInput\PracticeInput\obj\Debug\netcoreapp2.1\PracticeInput.dll
+C:\Users\Edd.laptop-PC\source\repos\PracticeInput\PracticeInput\obj\Debug\netcoreapp2.1\PracticeInput.pdb
