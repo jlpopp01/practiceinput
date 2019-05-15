@@ -15,6 +15,8 @@ namespace PracticeInput
             string favoriteThing = Console.ReadLine();
 
             Console.Write(" My name is " + name + " and my favorite " + thing + " is " + favoriteThing + ". ");
+
+            Console.ReadLine();
         }
     }
 }
